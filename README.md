@@ -4,7 +4,7 @@ This was a collaborative game built together with [Koborooski](https://github.co
 Forgotten Paths is a puzzle game, where you define a sequence of movement commands that constantly loop until the player is manually stopped or completes the puzzle.
 
 **Links**
-- [itch.io](https://hutnerr.itch.io/forgotten-paths)
+- [Play the game on itch.io!](https://hutnerr.itch.io/forgotten-paths)
 - [Blog Post](https://itch.io/jam/gmtk-2025/rate/3778927)
 - [Reflection](https://www.hunter-baker.com/pages/games/forgotten-paths.html)
 
