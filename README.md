@@ -1,6 +1,6 @@
 ## [Forgotten Paths](https://hutnerr.itch.io/forgotten-paths)
 
-Forgotten Paths is a puzzle game built with for the
+Forgotten Paths is a puzzle game built with Godot for the
 [GMTK Game Jam 2025](https://itch.io/jam/gmtk-2025) by [Rat Haven Studios](https://github.com/Rat-Haven-Studios).
 The theme for the jam was **"Loop"**.
 
