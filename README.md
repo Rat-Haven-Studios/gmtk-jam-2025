@@ -11,7 +11,7 @@ The game revolves around defining a sequence of movement commands that continuou
 ## Links
 - [Play the game on itch.io](https://hutnerr.itch.io/forgotten-paths)
 - [Jam page](https://itch.io/jam/gmtk-2025/rate/3778927)
-- hutner's [Post-jam reflection](https://www.hunter-baker.com/pages/games/forgotten-paths.html) and [Blog Post](https://www.hunter-baker.com/pages/blog/blog-08-08-2025.html)
+- hutner's [Forgotten Paths Showcase](https://www.hunter-baker.com/pages/games/forgotten-paths.html)
 
 ## How to Play
 At it's core, the game is quite simple. You select a few movement commands and then click play. These will repeatedly loop until you either win or stop it manually. To complete a level, all of the enemies there must be slain.
